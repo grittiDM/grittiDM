@@ -9,7 +9,7 @@
 
 <hr>
 
-<div align="center">
+<div align="center" style="gap: 10px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
