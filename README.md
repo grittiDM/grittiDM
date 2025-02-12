@@ -2,49 +2,19 @@
 
 <div align="left">
   <a href="https://github.com/grittiDM">
-    <img
-      aling="left"
-      alt="GitHub Stats 1"
-      height="180"
-      style="padding-right: 10px;
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=compact&langs_count=6&theme=gruvbox"
-      />
-    <img
-      align="left"
-      alt="GitHub Stats 2"
-      height="180"
-      style="padding-right: 10px;
-      src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"
-      />
+    <img aling="left" height="180" style="padding-right: 10px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=compact&langs_count=6&theme=gruvbox" />
+    <img align="left" height="180" style="padding-right: 10px; src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" />
   </a>
 </div>
 
 <div align="left">
   <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 10px;">
-    <img 
-      alt="Java" 
-      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
-      >
-    <img 
-      alt="HTML5" 
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      >
-    <img 
-      alt="CSS3" 
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      >
-    <img 
-      alt="JavaScript" 
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      >
-    <img 
-      alt="Git" 
-      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-      >
-    <img 
-      alt="Vscode" 
-      src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-      >
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </div>
 </div>
 
