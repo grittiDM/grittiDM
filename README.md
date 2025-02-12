@@ -18,7 +18,7 @@ ___
 
 ### Sobre mim:
 
-Tenho 21 anos, estudo Análise e Desenvolvimento de Sistemas e sou membro da Ordem DeMolay. Atualmente trabalho como suporte técnico em uma micro empresa de produtos congelados chamada Congelados do Tio, na qual eu sou responsável por toda a    parte que diz respeito à tecnologia. Fui responsável pela implementação do Sistema Operacional Linux nos computadores da empresa, visando a eficiência das máquinas e a economia com licenças de software. 
+Tenho 21 anos, estudo Análise e Desenvolvimento de Sistemas e sou membro da Ordem DeMolay. Minha experiência mais recente foi como suporte técnico em uma micro empresa de produtos congelados chamada Congelados do Tio, na qual eu sou responsável por toda a parte que diz respeito à tecnologia. Minha maior conquista nesta última experiência foi a implementação do Sistema Operacional Linux nos computadores da empresa, visando a eficiência das máquinas e a economia com licenças de software. Hoje estou em buca de uma nova oportunidade de emprego como estagiário ou junior para dar continuidade à evolução da minha carreira na área de tecnologia.
 
 Nas minhas horas vagas eu gosto de personalizar meu Desktop Environment em Linux, jogar jogos de tabuleiro e virtuais, ler (principalmente ficção científica, filosofia e terror) e ver séries e filmes.
 
