@@ -7,7 +7,7 @@
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Google Cloud Plataform](https://skillicons.dev/icons?i=gpc)
+![Google Cloud Plataform](https://skillicons.dev/icons?i=gcp)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Git](https://skillicons.dev/icons?i=git)
