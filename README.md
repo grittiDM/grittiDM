@@ -8,6 +8,7 @@
 ![Google Cloud Plataform](https://skillicons.dev/icons?i=gcp)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
