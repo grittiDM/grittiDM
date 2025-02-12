@@ -9,6 +9,7 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
