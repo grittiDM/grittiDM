@@ -1,16 +1,14 @@
 ## Bem-vindo(a) ao meu perfil
 
-<div>
-  <a>
-    <img align="left" height="180" padding="5" src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox" />
-  </a>
-  <a>
-    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=donut&theme=gruvbox" />
-  </a>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img align="left" height="200" padding="5 10" src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox" />
+    <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=donut&theme=gruvbox" />
+  </div>
 </div>
 
-<div align="left">
-  <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 10px;">
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,7 +22,7 @@
 
 ### Minhas redes de contato:
 
-<div align="left"> 
+<div align="center"> 
   <a href="www.youtube.com/@grittiDM" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
