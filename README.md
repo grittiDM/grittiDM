@@ -2,7 +2,17 @@
 
 <div align="left">
   <a href="https://github.com/grittiDM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=compact&langs_count=6&theme=gotham"/>
+    <img 
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=compact&langs_count=6&theme=gruvbox"
+      />
+    <img
+      align="left"
+      alt="GitHub Stats 1"
+      height="170"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br"
+      />
   </a>
 </div>
 
