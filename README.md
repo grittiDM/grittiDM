@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao meu perfil
 
-<div align="left">
-  <a href="https://github.com/grittiDM">
-    <img aling="left" height="180" style="padding-right: 10px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=compact&langs_count=6&theme=gruvbox" />
-    <img align="left" height="180" style="padding-right: 10px; src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" />
+<div>
+  <a>
+    <img align="left" height="180" padding="5" src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox" />
+  </a>
+  <a>
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=donut&theme=gruvbox" />
   </a>
 </div>
 
