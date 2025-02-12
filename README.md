@@ -2,7 +2,7 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img align="left" height="200" padding="10 5" src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox" />
+    <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox" />
     <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=donut&theme=gruvbox" />
   </div>
 </div>
