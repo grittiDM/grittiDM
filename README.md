@@ -7,6 +7,8 @@
   </div>
 </div>
 
+<br>
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -19,6 +21,14 @@
 </div>
 
 <br>
+
+### Sobre mim:
+
+<p>
+  Tenho 21 anos, estudo Análise e Desenvolvimento de Sistemas e sou membro da Ordem DeMolay. Atualmente trabalho como suporte técnico em uma micro empresa de produtos congelados chamada Congelados do Tio, na qual eu sou responsável por toda a parte que diz respeito à tecnologia. Fui responsável pela implementação do Sistema Operacional Linux nos computadores da empresa, visando a eficiência das máquinas e a economia com licenças de software. 
+
+Nas minhas horas vagas eu gosto de personalizar meu Desktop Environment em Linux, jogar jogos de tabuleiro e virtuais, ler (principalmente ficção científica, filosofia e terror) e ver séries e filmes.
+</p>
 
 ### Minhas redes de contato:
 
