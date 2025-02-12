@@ -28,7 +28,7 @@ ___
 ### Minhas redes de contato:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_m.gritti/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/6GkPBx4v)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/b3zP3ArVJk)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:dev.murilogritti@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-gritti)
 
