@@ -7,7 +7,7 @@
   </div>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
