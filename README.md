@@ -19,8 +19,8 @@ ___
 
 ### Sobre mim:
 
-"Uma longa viagem começa com um único passo"
-(Laozi)
+> "Uma longa viagem começa com um único passo"
+> (Laozi)
 
 Sou Fundador da Backpech (Empreendedor Autônomo), prestadora de serviços de assistência técnica para eletrônico com foco em computadores. Sou estudante de Análise e Desenvolvimento de Sistemas e me formo em Dezembro de 2025. Possuo certificações na área de Desenvolvimento e Computação em Nuvem, além de estar no processo de conclusão de outras certificações, sempre em busca de me atualizar e desenvolver dentro da área de Tecnologia.
 
