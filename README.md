@@ -19,9 +19,12 @@ ___
 
 ### Sobre mim:
 
-Tenho 21 anos, estudo Análise e Desenvolvimento de Sistemas e sou membro da Ordem DeMolay. Minha experiência mais recente foi como suporte técnico em uma micro empresa de produtos congelados chamada Congelados do Tio, na qual eu sou responsável por toda a parte que diz respeito à tecnologia. Minha maior conquista nesta última experiência foi a implementação do Sistema Operacional Linux nos computadores da empresa, visando a eficiência das máquinas e a economia com licenças de software. Hoje estou em buca de uma nova oportunidade de emprego como estagiário ou junior para dar continuidade à evolução da minha carreira na área de tecnologia.
+"Uma longa viagem começa com um único passo"
+(Laozi)
 
-Nas minhas horas vagas eu gosto de personalizar meu Desktop Environment em Linux, jogar jogos de tabuleiro e virtuais, ler (principalmente ficção científica, filosofia e terror) e ver séries e filmes.
+Sou Fundador da Backpech (Empreendedor Autônomo), prestadora de serviços de assistência técnica para eletrônico com foco em computadores. Sou estudante de Análise e Desenvolvimento de Sistemas e me formo em Dezembro de 2025. Possuo certificações na área de Desenvolvimento e Computação em Nuvem, além de estar no processo de conclusão de outras certificações, sempre em busca de me atualizar e desenvolver dentro da área de Tecnologia.
+
+Minha jornada no mercado de trabalho teve início em 2019, aos 15 anos, como Jovem Aprendiz, me apresentando o mercado de trabalho e ambiente corporativo. Com um salto no tempo, eu retorno como Estagiário de Arquitetura e Urbanismo, aos 19 anos, local no qual eu descubro meu interesse em tecnologia. Assim, eu opto por migrar de área e, aos 20, dou início à jornada na área de Tecnologia. Minha primeira experiência na área foi como Suporte Técnico, local no qual eu pude colocar em prática toda a teoria que eu tinha e desenvolver minhas habilidades em Suporte Técnico, Desenvolvimento e Implementações Linux.
 
 ___
 
