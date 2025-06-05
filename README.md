@@ -6,25 +6,24 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Google Cloud Plataform](https://skillicons.dev/icons?i=gcp)
-![CSS](https://skillicons.dev/icons?i=css)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![HTML](https://skillicons.dev/icons?i=html)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Tailwindcss](https://skillicons.dev/icons?i=tailwindcss)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
 ___
 
 ### Sobre mim:
 
-> "Uma longa viagem começa com um único passo"
-> (Laozi)
+Profissional de Tecnologia da Informação apaixonado por otimização e inovação, com sólida experiência em Suporte Técnico e manutenção de computadores, incluindo formatação, higienização e upgrades. Como Fundador da Backpech, atuo na otimização de infraestruturas e sistemas, buscando constantemente atualização em Desenvolvimento Web (HTML, CSS, JavaScript, Tailwind CSS) e Cloud Computing (Google Cloud).
 
-Sou Fundador da Backpech (Empreendedor Autônomo), prestadora de serviços de assistência técnica para eletrônico com foco em computadores. Sou estudante de Análise e Desenvolvimento de Sistemas e me formo em Dezembro de 2025. Possuo certificações na área de Desenvolvimento e Computação em Nuvem, além de estar no processo de conclusão de outras certificações, sempre em busca de me atualizar e desenvolver dentro da área de Tecnologia.
+Minha expertise se estende à implementação estratégica de sistemas Linux para otimização de maquinário, resultando em economia significativa de custos de substituição e licenças, como demonstrado em projetos de sucesso. Sou um resolvedor de problemas com foco em resultados, como a automação de fluxo de mercadorias via Google Sheets, que reduziu falhas e aprimorou o controle financeiro.
 
-Minha jornada no mercado de trabalho teve início em 2019, aos 15 anos, como Jovem Aprendiz, me apresentando o mercado de trabalho e ambiente corporativo. Com um salto no tempo, eu retorno como Estagiário de Arquitetura e Urbanismo, aos 19 anos, local no qual eu descubro meu interesse em tecnologia. Assim, eu opto por migrar de área e, aos 20, dou início à jornada na área de Tecnologia. Minha primeira experiência na área foi como Suporte Técnico, local no qual eu pude colocar em prática toda a teoria que eu tinha e desenvolver minhas habilidades em Suporte Técnico, Desenvolvimento e Implementações Linux.
+Atualmente em formação em Análise e Desenvolvimento de Sistemas (Dez/2025), busco oportunidades desafiadoras para aplicar e expandir meu conhecimento em Suporte, Manutenção de Computadores, Linux e Desenvolvimento Web. Meu compromisso é entregar soluções inovadoras que impulsionem a produtividade, a segurança e a otimização de custos e performance dos sistemas.
 
 ___
 
