@@ -13,7 +13,6 @@
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
 ___
 
@@ -33,6 +32,5 @@ ___
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/b3zP3ArVJk)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:dev.murilogritti@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/murilo-gritti)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/moonrilo)
 
 ___
