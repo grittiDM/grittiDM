@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao meu perfil
 
-![GitHub Status Geral](https://github-readme-stats.vercel.app/api?username=grittiDM&show_icons=true&rank_icon=github&theme=gruvbox)
-![GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&layout=donut&theme=gruvbox)
+[![Gritti's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=grittiDM&card_width=450&show_icons=true&rank_icon=github&title_color=fabd2f&text_color=f9f5d7&icon_color=fe8019&border_color=fe8019&bg_color=1d2021&border_radius=15&custom_title=Metrics#gh-dark-mode-only)](https://github.com/grittiDM/github-readme-stats#gh-dark-mode-only)
+[![Gritti's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=grittiDM&card_width=450&show_icons=true&rank_icon=github&title_color=8f3f71&text_color=1d2021&icon_color=076678&border_color=076678&bg_color=f9f5d7&border_radius=15&custom_title=Metrics#gh-light-mode-only)](https://github.com/grittiDM/github-readme-stats#gh-light-mode-only)
+[![Gritti's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=grittiDM&card_width=256&layout=compact&title_color=fabd2f&text_color=f9f5d7&icon_color=fe8019&border_color=fe8019&bg_color=1d2021&border_radius=15&langs_count=6&custom_title=Languages#gh-dark-mode-only)](https://github.com/grittiDM/github-readme-stats#gh-dark-mode-only)
+[![Gritti's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=grittiDM&card_width=256&layout=compact&title_color=8f3f71&text_color=1d2021&icon_color=076678&border_color=076678&bg_color=f9f5d7&border_radius=15&langs_count=6&custom_title=Languages#gh-light-mode-only)](https://github.com/grittiDM/github-readme-stats#gh-light-mode-only)
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Linux](https://skillicons.dev/icons?i=linux)
